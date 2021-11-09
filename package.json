@@ -34,7 +34,13 @@
   "license": "UNLICENSED",
   "version": "1.0.0",
   "lint-staged": {
-    "*.js": "eslint --cache --fix",
-    "*.--write": "prettier --write"
+    "*.md": [
+      "yarn run format",
+      "yarn run lint:md"
+    ],
+    "*.ts": [
+      "yarn run format",
+      "yarn run lint:js"
+    ]
   }
 }
