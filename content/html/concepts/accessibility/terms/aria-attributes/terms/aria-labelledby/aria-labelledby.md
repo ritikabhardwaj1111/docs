@@ -1,5 +1,5 @@
 ---
-Title: 'aria-labelleby'
+Title: 'aria-labelledby'
 Description: 'Defines a string that labels an interactive HTML element.'
 Subjects:
   - 'Web Design'
