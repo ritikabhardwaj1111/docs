@@ -33,9 +33,9 @@
   <h2> Syntax </h2>
   Math.multiplyExact(num1, num2)
   <br>
-  ```num1``` and ```num2``` are two parameters that will be multiplied.
+  num1 and num2 are two parameters that will be multiplied.
   <br>
-  ```NOTE:``` both the parameters should be either be int or long.
+  NOTE: both the parameters should be either be int or long.
   
   <h2> Example </h2>
   The following example showcases the .multiplyExact() method being applied two variables:
